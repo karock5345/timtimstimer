@@ -278,7 +278,7 @@ if __name__ == '__main__':
     
     
     
-    root.title("TimTim's Timer")
+    root.title("TimTim's Timer - Support hotline: 63555345")
     root.resizable(0,0)
     app = Application(root)
     app.configure(background="white")
